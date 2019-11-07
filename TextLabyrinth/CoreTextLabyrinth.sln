@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTextLabyrinth", "CoreTextLabyrinth\CoreTextLabyrinth.csproj", "{01468AE4-4794-4A99-976E-66BA92F9E026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{544C2F86-8DD6-41D8-BDBD-5D16B40DADE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01468AE4-4794-4A99-976E-66BA92F9E026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01468AE4-4794-4A99-976E-66BA92F9E026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01468AE4-4794-4A99-976E-66BA92F9E026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01468AE4-4794-4A99-976E-66BA92F9E026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544C2F86-8DD6-41D8-BDBD-5D16B40DADE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544C2F86-8DD6-41D8-BDBD-5D16B40DADE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544C2F86-8DD6-41D8-BDBD-5D16B40DADE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544C2F86-8DD6-41D8-BDBD-5D16B40DADE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07793A71-DE2B-4FE7-AE08-8EFB8D29526F}
+	EndGlobalSection
+EndGlobal
